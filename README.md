@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29065092/README.md)
-# 🔐 Secure Auth Next.js
+# 🔐 Sistema de Login.js
 
 Sistema de autenticação completo (cadastro, login, logout e área protegida) construído com **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Prisma** e **PostgreSQL**, com foco em boas práticas de segurança web.
 
