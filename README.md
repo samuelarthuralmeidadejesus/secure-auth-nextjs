@@ -4,6 +4,7 @@
 Sistema de autenticação completo (cadastro, login, logout e área protegida) construído com **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Prisma** e **PostgreSQL**, com foco em boas práticas de segurança web.
 
 🔗 **Demo:** [secure-auth-nextjs.vercel.app](https://secure-auth-nextjs.vercel.app)
+Link: https://samuelarthuralmeidadejesus.github.io/secure-auth-nextjs/
 
 ---
 
